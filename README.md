@@ -1,6 +1,6 @@
 
 This is magento1 recipe for [Deployer](https://github.com/deployphp/deployer)
-Inspired by article [Inchoo](https://inchoo.net/magento-2/magento-deployment-deployer/)
+Inspired by article from [Inchoo](https://inchoo.net/magento-2/magento-deployment-deployer/)
 
 ## Using
 ```
